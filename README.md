@@ -1,3 +1,3 @@
 # Pokemon-By-AI
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/gxmngi/Pokemon-By-AI)
+Link https://inquisitive-chebakia-0e80c0.netlify.app/
